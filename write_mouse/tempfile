@@ -1,0 +1,524 @@
+sleep 156
+move 902 488
+move 902 488
+move 901 488
+sleep 16
+move 899 488
+sleep 16
+move 898 488
+move 897 488
+move 896 488
+move 895 488
+sleep 15
+move 894 488
+move 892 488
+move 890 488
+move 888 488
+sleep 16
+move 885 488
+move 883 487
+move 881 487
+move 879 487
+move 878 487
+sleep 15
+move 875 485
+move 872 484
+move 869 484
+move 865 483
+sleep 16
+move 861 482
+move 858 481
+move 854 480
+sleep 16
+move 849 479
+move 845 477
+move 841 476
+move 837 474
+sleep 15
+move 834 473
+move 833 472
+move 831 471
+move 826 469
+sleep 16
+move 822 467
+move 816 465
+move 809 463
+move 803 461
+move 796 458
+sleep 15
+move 788 455
+move 781 452
+move 774 449
+move 768 446
+sleep 16
+move 762 443
+move 755 440
+move 749 437
+sleep 16
+move 744 435
+move 739 432
+move 734 429
+move 731 427
+sleep 15
+move 726 425
+move 724 424
+move 722 423
+move 720 422
+sleep 16
+move 719 421
+move 716 420
+move 713 419
+move 711 418
+move 709 417
+sleep 15
+move 707 416
+move 704 416
+move 701 414
+move 697 412
+sleep 16
+move 694 411
+move 691 409
+move 687 407
+sleep 16
+move 684 406
+move 681 405
+move 677 403
+move 675 402
+sleep 15
+move 674 401
+move 671 399
+move 669 398
+move 666 396
+move 662 394
+sleep 16
+move 659 392
+move 655 390
+move 652 388
+move 648 386
+sleep 15
+move 645 383
+move 641 380
+move 637 378
+move 632 375
+sleep 16
+move 627 372
+move 622 369
+move 619 366
+sleep 16
+move 615 365
+move 610 362
+move 606 359
+move 601 356
+sleep 15
+move 597 353
+move 593 350
+move 591 349
+move 590 347
+move 588 345
+sleep 16
+move 588 345
+move 586 343
+move 583 342
+move 583 340
+sleep 15
+move 582 338
+move 581 337
+move 579 335
+move 578 333
+sleep 16
+move 577 332
+move 575 329
+move 575 329
+sleep 16
+move 575 327
+move 573 325
+move 572 322
+move 571 321
+move 570 319
+sleep 15
+move 570 318
+move 569 316
+move 568 315
+move 568 314
+sleep 16
+move 567 313
+move 567 313
+move 566 312
+move 566 312
+sleep 15
+move 565 310
+move 564 310
+move 562 308
+move 561 308
+sleep 16
+move 561 307
+move 559 305
+move 559 305
+sleep 16
+move 557 303
+move 556 303
+move 555 302
+move 553 301
+move 551 300
+sleep 15
+move 550 298
+move 550 298
+move 548 296
+move 547 296
+sleep 16
+move 545 295
+move 544 295
+move 543 293
+move 542 292
+sleep 15
+move 540 291
+move 539 290
+move 537 288
+move 536 288
+sleep 16
+move 534 286
+move 531 285
+move 529 284
+sleep 16
+move 528 283
+move 526 283
+move 524 282
+move 521 281
+move 519 280
+sleep 15
+move 518 279
+move 517 278
+move 516 278
+move 514 278
+sleep 16
+move 512 277
+move 512 277
+move 510 277
+move 508 276
+sleep 15
+move 506 276
+move 504 275
+move 503 275
+move 502 275
+sleep 16
+move 501 275
+move 499 273
+move 499 273
+move 497 273
+sleep 16
+move 497 272
+move 496 272
+move 495 272
+move 493 272
+sleep 15
+move 493 272
+move 492 270
+move 491 270
+move 490 269
+sleep 16
+move 487 267
+move 487 267
+move 486 266
+move 484 264
+sleep 15
+move 484 264
+move 482 264
+move 481 263
+move 480 263
+sleep 18
+move 480 262
+move 480 261
+move 479 261
+move 479 261
+sleep 16
+move 478 260
+move 477 259
+move 477 259
+move 476 258
+sleep 15
+move 475 257
+move 474 256
+move 472 254
+sleep 16
+move 471 254
+move 470 253
+move 470 252
+sleep 15
+move 469 252
+move 469 251
+move 468 251
+move 466 250
+sleep 16
+move 465 250
+move 465 250
+sleep 16
+move 463 248
+move 462 248
+move 461 248
+sleep 15
+move 459 248
+move 457 248
+move 456 248
+sleep 16
+move 455 248
+move 453 248
+move 453 247
+sleep 15
+move 452 247
+move 451 247
+move 450 247
+move 448 247
+move 446 246
+sleep 16
+move 445 245
+move 445 245
+move 443 244
+sleep 16
+move 442 244
+move 440 242
+move 440 242
+move 438 242
+sleep 15
+move 436 241
+move 433 240
+move 431 240
+move 428 238
+sleep 16
+move 427 237
+move 426 237
+move 423 237
+move 422 236
+move 421 236
+sleep 15
+move 419 234
+move 419 234
+move 418 233
+sleep 16
+move 415 231
+move 415 230
+move 414 230
+sleep 16
+move 413 230
+move 412 229
+move 411 229
+move 409 227
+sleep 15
+move 408 226
+move 407 225
+move 407 225
+sleep 16
+move 406 225
+move 405 224
+move 404 224
+move 402 223
+move 402 222
+sleep 15
+move 401 222
+move 401 222
+move 399 220
+sleep 16
+move 398 220
+move 396 219
+sleep 16
+move 395 218
+move 394 218
+sleep 15
+move 393 217
+move 393 217
+sleep 16
+move 392 217
+move 392 216
+sleep 47
+move 391 216
+sleep 15
+move 390 215
+move 390 215
+sleep 16
+move 390 214
+move 390 213
+sleep 15
+move 389 212
+move 388 210
+sleep 16
+move 386 208
+sleep 16
+move 386 207
+move 386 207
+move 386 206
+move 386 204
+sleep 15
+move 386 204
+move 385 203
+move 385 202
+move 385 202
+sleep 16
+move 385 201
+move 385 199
+move 385 199
+sleep 15
+move 385 198
+move 385 198
+move 385 196
+move 385 195
+sleep 16
+move 385 194
+move 385 192
+move 385 192
+sleep 16
+move 383 190
+move 383 189
+move 382 187
+move 381 187
+sleep 15
+move 381 186
+move 380 185
+move 379 184
+move 379 184
+move 378 183
+sleep 16
+move 378 182
+move 376 182
+move 375 182
+move 373 180
+sleep 15
+move 372 180
+move 372 180
+move 370 179
+move 370 179
+sleep 16
+move 369 178
+move 367 177
+sleep 16
+move 365 176
+move 364 176
+move 363 176
+sleep 15
+move 363 176
+move 362 175
+move 362 175
+move 360 174
+sleep 16
+move 360 174
+move 359 174
+move 358 174
+move 357 174
+sleep 15
+move 357 173
+move 356 172
+move 355 172
+sleep 16
+move 354 171
+move 353 171
+move 351 171
+sleep 16
+move 351 170
+move 349 169
+move 349 169
+move 348 168
+sleep 15
+move 347 168
+move 346 167
+sleep 16
+move 346 166
+sleep 15
+move 346 166
+sleep 94
+ldown 346 166
+sleep 79
+lup 346 166
+sleep 1171
+inputn_down 87
+sleep 156
+inputn_up 87
+sleep 16
+inputn_down 79
+sleep 202
+inputn_up 79
+sleep 96
+inputn_down 78
+sleep 140
+inputn_down 73
+sleep 78
+inputn_up 78
+sleep 78
+inputn_up 73
+sleep 63
+inputn_down 77
+sleep 156
+inputn_up 77
+sleep 93
+inputn_down 69
+sleep 112
+inputn_down 73
+sleep 31
+inputn_up 69
+sleep 109
+inputn_up 73
+sleep 111
+inputn_down 77
+sleep 141
+inputn_up 77
+sleep 249
+inputn_down 69
+sleep 31
+inputn_down 73
+sleep 63
+inputn_up 69
+sleep 47
+inputn_up 73
+sleep 530
+inputn_down 68
+sleep 125
+inputn_down 69
+sleep 78
+inputn_up 68
+sleep 62
+inputn_up 69
+sleep 733
+inputn_down 8
+sleep 156
+inputn_up 8
+sleep 78
+inputn_down 8
+sleep 110
+inputn_up 8
+sleep 62
+inputn_down 8
+sleep 109
+inputn_up 8
+sleep 63
+inputn_down 8
+sleep 93
+inputn_up 8
+sleep 31
+inputn_down 8
+sleep 110
+inputn_up 8
+sleep 62
+inputn_down 8
+sleep 94
+inputn_up 8
+sleep 78
+inputn_down 8
+sleep 62
+inputn_up 8
+sleep 109
+inputn_down 8
+sleep 78
+inputn_up 8
+sleep 78
+inputn_down 8
+sleep 63
+inputn_up 8
+sleep 109
+inputn_down 8
+sleep 62
+inputn_up 8
+sleep 109
+inputn_down 8
+sleep 78
+inputn_up 8
+sleep 358
+inputn_down 8
+sleep 75
+inputn_up 8
