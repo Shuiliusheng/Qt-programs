@@ -1,2 +1,2 @@
 # Qt-programs
-some projects used by qt
+some projects created by Qt
